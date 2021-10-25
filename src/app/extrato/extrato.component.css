@@ -2,6 +2,7 @@
     text-align: center;
     font-size: 24px;
     margin-bottom: 16px;
+    color: var(--primary);
   }
   
 .tabela{
@@ -16,7 +17,7 @@
   
 .tabela_cabecalho_conteudo {
         padding: 10px;
-        border-bottom: 2px solid green;
+        border-bottom: 2px solid black;
 }
   
 .tabela_linha {
